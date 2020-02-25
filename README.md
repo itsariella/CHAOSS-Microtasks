@@ -1,7 +1,7 @@
 # CHAOSS_Microtasks
 
 ## Microtask 0:
-Download PyCharm and get familiar with it (for instance, you can follow this tutorial).
+Download PyCharm and get familiar with it 
 
 ## Microtask 1:
 Set up Perceval to be executed from PyCharm.
