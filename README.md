@@ -13,13 +13,21 @@ Create a Python script to execute Perceval via its Python interface using the Gi
 Based on the JSON documents produced by Perceval and its source code, try to answer the following questions:
 
 What is the meaning of the JSON attribute timestamp?
+
 What is the meaning of the JSON attribute updated_on?
+
 What is the meaning of the JSON attribute origin?
+
 What is the meaning of the JSON attribute category?
+
 How many categories do the Git and GitLab backends have?
+
 What is the meaning of the JSON attribute uuid?
+
 What is the meaning of the JSON attribute search_fields?
+
 What is stored in the attribute data of each JSON document produced by Perceval?
+
 Microtask 4:
 Set up a dev environment to work on GrimoireLab. Have a look to https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pycharm-dev-environment.
 
