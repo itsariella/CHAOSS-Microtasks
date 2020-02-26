@@ -28,7 +28,7 @@ What is the meaning of the JSON attribute search_fields?
 
 What is stored in the attribute data of each JSON document produced by Perceval?
 
-Microtask 4:
+## Microtask 4:
 Set up a dev environment to work on GrimoireLab. Have a look to https://github.com/chaoss/grimoirelab-sirmordred#setting-up-a-pycharm-dev-environment.
 
 ## Microtask 5:
